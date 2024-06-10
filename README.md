@@ -5,7 +5,7 @@ Here you can find my visuals created with Power BI
    * Using Star-schema to connect tables;
    * Creation of calendar table to convert calendar year to fiscal year;
    * Calculation of measures: sales growth rate, % share of online/offline customers, AOV (average order value);
-   * Pop-up filter pane.
+   * Pop-up slicer pane.
   
 2. Technical part of Executives dashboard:
    * Using Star-schema to connect tables;
